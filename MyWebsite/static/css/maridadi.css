@@ -1,0 +1,33 @@
+.fruits{
+    background-color: rgb(226, 114, 120);
+    border: 2px solid blueviolet;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: ".SF NS Mono", fantasy;
+
+}
+.building{
+    background-color: #0059ff;
+    border: 2px solid #bf00ff;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: ".SN NS Mono", fantasy;
+}
+.FRUITS{
+    background-color: #0bc2b2;
+    border: 2px solid blueviolet;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: ".SF NS Mono", fantasy;
+}
+#computer{
+    background-color: pink;
+    border: 2px solid #2b49e2;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: ".SF NS Mono", fantasy;
+}
